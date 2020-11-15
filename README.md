@@ -1,7 +1,8 @@
 # stoneTransferMan
 
 record some life of myself, and record the world
-[blogpage](https://0xliang.github.io/stoneTransferMan/)
+
+[blog](https://0xliang.github.io/stoneTransferMan/)
 
 
 # 今天不想写代码，今天不想运维
