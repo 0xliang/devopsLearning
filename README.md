@@ -6,3 +6,7 @@ record some life of myself, and record the world
 
 [00_先来个高压锅猪手](https://github.com/0xliang/stoneTransferMan/blob/gh-pages/stewed_pig's_trotters.md)
 
+
+
+[blogpage](https://0xliang.github.io/stoneTransferMan/)
+
