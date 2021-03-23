@@ -1,4 +1,4 @@
-# some record for use ubuntu20.04
+# Some record for using ubuntu20.04
 
 ### use VNC
 
